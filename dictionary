@@ -1,0 +1,15 @@
+a = {1:50,2:100,3:150}
+# print(a)
+# a.update({4:500})
+# print(a)
+# a[5] = 1000
+# print(a)
+# a.update({1:100})
+# print(a)
+# a[1] = 10000000
+# print(a)
+# for i in a:
+#     print(a[i])
+d2 = a.popitem()
+print(d2)
+print(a)
