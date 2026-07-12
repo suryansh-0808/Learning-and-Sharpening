@@ -1,4 +1,6 @@
 a = int(input("Enter temperature in Celcius : "))
+b= ("How are you?")
+print(b)
 
 if a>40 :
     print("Very Hot.")
