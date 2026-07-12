@@ -1,5 +1,5 @@
 a = int(input("Enter temperature in Celcius : "))
-b= ("How are you?")
+b= input("How are you?")
 print(b)
 
 if a>40 :
